@@ -1,0 +1,4 @@
+version=2
+server=akamai
+	location=http://ak.worldofwarcraft.com.edgesuite.net/wow-pod-retail/EU/12911.streaming/
+manifest_partial=wow-13329-0658AFCDDF4D212A872B108F25947FA4.mfil
